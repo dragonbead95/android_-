@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter4_178p</string>
+    <string name="BtnAdd">더하기</string>
+    <string name="BtnSub">빼기</string>
+    <string name="BtnMul">곱하기</string>
+    <string name="BtnDiv">나누기</string>
+    <string name="BtnRemain">나머지 값</string>
+    <string name="TextResult">계산 결과 : </string>
+
+</resources>
